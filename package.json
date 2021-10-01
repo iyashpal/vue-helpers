@@ -1,7 +1,7 @@
 {
   "name": "vue-helpers",
   "version": "1.0.0",
-  "description": "Collection of VueJS helper function classes.",
+  "description": "Collection of VueJS helper function/classes.",
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "license": "MIT",
   "contributors": [
